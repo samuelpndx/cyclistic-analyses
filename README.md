@@ -66,7 +66,7 @@ The objective of this script is to prepare the Cyclistic data for analysis in Ta
    - Peak usage during weekdays, especially between 7 AM to 9 AM and 4 PM to 6 PM.
    - Reduced usage on weekends.
    
-    ![image](https://github.com/user-attachments/assets/d543b106-1ae7-462e-b8d5-ef124c24ddc1)
+     ![image](https://github.com/user-attachments/assets/d543b106-1ae7-462e-b8d5-ef124c24ddc1)
 
 
 6. **Heat Map by Hour and Day of the Week (Casual)**:
