@@ -96,9 +96,9 @@ The objective of this script is to prepare the Cyclistic data for analysis in Ta
    - **Members:** Relatively constant average ride time, with a slight dip in August.
    - **Casual Users:** Average ride time increases from February to August, peaking in August.
    
-    ![image](https://github.com/user-attachments/assets/34ebb2b2-f7c7-49a4-bb09-5418be5dc1b2)
-   
-    Members have regular, goal-oriented travel patterns, while casual users’ behavior is more influenced by seasonal and weather conditions.
+     ![image](https://github.com/user-attachments/assets/34ebb2b2-f7c7-49a4-bb09-5418be5dc1b2)
+
+     Members have regular, goal-oriented travel patterns, while casual users’ behavior is more influenced by seasonal and weather conditions.
 
 
 ### Analyses
